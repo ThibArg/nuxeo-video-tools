@@ -2,7 +2,8 @@ nuxeo-video-tools
 ===========================
 
 # WARNING WARNING WARNING
-Since 2015-09-23, this plug-in has been forekd to https://github.com/nuxeo-sandbox/nuxeo-video-tools and will be maintained there. No update will be done here
+
+Since 2015-09-23, this plug-in has been forked to https://github.com/nuxeo-sandbox/nuxeo-video-tools and will be maintained there. No update will be done here
 ===========================
 
 This plug-in adds tools for handling videos: Slice, Merge, Extract ClosedCaptions
